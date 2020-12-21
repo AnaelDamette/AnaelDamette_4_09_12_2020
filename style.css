@@ -598,8 +598,13 @@ p {
 }
 
 .social {
+    display: flex;
+    justify-content: center;
     max-width: 400px;
     margin: auto auto auto auto;
+}
+.col-sm-3 {
+    margin: 10px;
 }
 
 h2 {
