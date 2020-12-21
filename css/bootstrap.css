@@ -1618,7 +1618,7 @@ h5 {
 
 .h6,
 h6 {
-    font-size: 14px
+    font-size: 12px
 }
 
 p {
@@ -3315,7 +3315,7 @@ fieldset[disabled] .radio label {
 .input-sm {
     height: 30px;
     padding: 5px 10px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5;
     border-radius: 3px
 }
@@ -3333,7 +3333,7 @@ textarea.input-sm {
 .form-group-sm .form-control {
     height: 30px;
     padding: 5px 10px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5;
     border-radius: 3px
 }
@@ -3352,7 +3352,7 @@ textarea.input-sm {
     height: 30px;
     min-height: 32px;
     padding: 6px 10px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5
 }
 
@@ -3649,7 +3649,7 @@ textarea.input-lg {
 @media (min-width:768px) {
     .form-horizontal .form-group-sm .control-label {
         padding-top: 6px;
-        font-size: 14px
+        font-size: 12px
     }
 }
 
@@ -4209,7 +4209,7 @@ fieldset[disabled] .btn-link:hover {
 .btn-group-sm>.btn,
 .btn-sm {
     padding: 5px 10px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5;
     border-radius: 3px
 }
@@ -4217,7 +4217,7 @@ fieldset[disabled] .btn-link:hover {
 .btn-group-xs>.btn,
 .btn-xs {
     padding: 1px 5px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5;
     border-radius: 3px
 }
@@ -4397,7 +4397,7 @@ tbody.collapse.in {
 .dropdown-header {
     display: block;
     padding: 3px 20px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.42857143;
     color: #777;
     white-space: nowrap
@@ -4754,7 +4754,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .input-group-addon.input-sm {
     padding: 5px 10px;
-    font-size: 14px;
+    font-size: 12px;
     border-radius: 3px
 }
 
@@ -5784,7 +5784,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 .pagination-sm>li>a,
 .pagination-sm>li>span {
     padding: 5px 10px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5
 }
 
@@ -5932,7 +5932,7 @@ a.label:hover {
     display: inline-block;
     min-width: 10px;
     padding: 3px 7px;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 700;
     line-height: 1;
     color: #fff;
@@ -6196,7 +6196,7 @@ a.thumbnail:hover {
     float: left;
     width: 0;
     height: 100%;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 20px;
     color: #fff;
     text-align: center;
@@ -7213,7 +7213,7 @@ button.close {
     z-index: 1070;
     display: block;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
     line-height: 1.42857143;
@@ -7682,7 +7682,7 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
+    background-color: #0009;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px
